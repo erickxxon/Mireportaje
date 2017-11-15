@@ -19,11 +19,6 @@ Syntax highlighted code block
 - Bulleted
 - List
 
-
-Mi historia
-
-<iframe src="https://uploads.knightlab.com/storymapjs/8ac2e6e5dbff49592bf6fccfec854bb1/la-ruta-de-mi-vida/draft.html" frameborder="0" width="80%" height="600"></iframe>
-
 2. List
 
 **Bold** and _Italic_ and `Code` text
@@ -40,3 +35,5 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 Visuazalización 
+
+<iframe src="https://uploads.knightlab.com/storymapjs/8ac2e6e5dbff49592bf6fccfec854bb1/la-ruta-de-mi-vida/draft.html" frameborder="0" width="80%" height="600"></iframe>
