@@ -1,6 +1,7 @@
-## Visuaclización clase Hipeertexto y Lengauje Digital
+## Visuaclización clase Hipertexto y Lengauje Digital
 
--estas son las visualizaciones de la clase de hipertexto editor on GitHub](https://github.com/erickxxon/Mireportaje/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Estas son las visualizaciones de la clase de hipertexto 
+editor on GitHub](https://github.com/erickxxon/Mireportaje/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
@@ -25,6 +26,9 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
+Mi Timeline
+<iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=145J1Opj26zKqcJh_3qaB_WIPD7T8ZCQzqQA3nrDcp_c&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
+
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
