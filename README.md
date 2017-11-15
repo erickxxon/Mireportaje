@@ -22,7 +22,7 @@ Syntax highlighted code block
 
 Mi historia
 
-<iframe src="https://uploads.knightlab.com/storymapjs/8ac2e6e5dbff49592bf6fccfec854bb1/la-ruta-de-mi-vida/draft.html" frameborder="0" width="100%" height="800"></iframe>
+<iframe src="https://uploads.knightlab.com/storymapjs/8ac2e6e5dbff49592bf6fccfec854bb1/la-ruta-de-mi-vida/draft.html" frameborder="0" width="80%" height="600"></iframe>
 
 2. List
 
