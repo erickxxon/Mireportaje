@@ -19,6 +19,9 @@ Syntax highlighted code block
 - Bulleted
 - List
 
+
+Mi historia
+<iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=145J1Opj26zKqcJh_3qaB_WIPD7T8ZCQzqQA3nrDcp_c&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 1. Numbered
 2. List
 
@@ -36,4 +39,3 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 Visuazalización 
-https://public.tableau.com/views/CEPEjercicio_0/Dashboard1?:embed=y&:display_count=yes
