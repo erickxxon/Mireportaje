@@ -16,3 +16,5 @@ Hurto de vehículos
 <script type='text/javascript'>                    var divElement = document.getElementById('viz1511919388659');                    var vizElement = divElement.getElementsByTagName('object')[0];                    vizElement.style.width='1155px';vizElement.style.height='4027px';                    var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
 Mapa de Paraísos Fiscales
 <iframe src="https://www.google.com/maps/d/embed?mid=1rIa47M06itSqc8t5Dugxf0MIYkEVoyEv" width="640" height="480"></iframe>
+Carto Mapa Paraísos Fiscales
+<iframe width="100%" height="520" frameborder="0" src="https://erickxxxon.carto.com/builder/f80c186a-7158-468e-a3fd-09ca943bc765/embed" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
